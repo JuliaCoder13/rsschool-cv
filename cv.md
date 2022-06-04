@@ -45,3 +45,4 @@ Languages, Law
 * Russian (native speaker)
 * English (B1)
 * Italian (Basic)
+* Spanish (Basic)
