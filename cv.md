@@ -15,6 +15,7 @@ Hi! My name is Julia and i am a junior Frontend developer. I have some experienc
 * Figma
 * Tilda
 * JavaScript (Basic)
+* Swift (Basic)
 ***
 ### Code Example
 
