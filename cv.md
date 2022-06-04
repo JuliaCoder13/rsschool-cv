@@ -41,6 +41,7 @@ Languages, Law
     + HTML Academy
     + Hexlet (JavaScript, HTML)
     + Skillbox (IOS developer)
+    + Skillbox (Marketing)
 ***
 * Russian (native speaker)
 * English (B1)
